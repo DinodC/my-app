@@ -6,5 +6,9 @@ def add_stuff(one, two)
 	one + two
 end
 
+def substract_stuff(one, two)
+	one - two
+end
+
 parrot "Git is awesome"
 puts add_stuff(2, 3)
